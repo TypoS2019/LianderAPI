@@ -1,0 +1,332 @@
+[
+    {
+        "id": 5,
+        "naam": "Aanschaf Edison 70D",
+        "toelichting": "Luxe auto",
+        "bronvermelding": "",
+        "eenheid_per": "Stuk",
+        "interventies": [
+            {
+                "id": 1,
+                "interventie": {
+                    "id": 1,
+                    "type": "c",
+                    "eenheid": "\u20ac",
+                    "naam": "OPEX",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 20000.0
+            },
+            {
+                "id": 2,
+                "interventie": {
+                    "id": 2,
+                    "type": "w",
+                    "eenheid": "\u20ac",
+                    "naam": "CO2",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 17000.0
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "naam": "Aanschaf Nippon Green",
+        "toelichting": "Compacte Elektrische Auto",
+        "bronvermelding": "",
+        "eenheid_per": "Stuk",
+        "interventies": [
+            {
+                "id": 1,
+                "interventie": {
+                    "id": 1,
+                    "type": "c",
+                    "eenheid": "\u20ac",
+                    "naam": "OPEX",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 38000.0
+            },
+            {
+                "id": 2,
+                "interventie": {
+                    "id": 2,
+                    "type": "w",
+                    "eenheid": "\u20ac",
+                    "naam": "CO2",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 6000.0
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "naam": "APK Keuring",
+        "toelichting": "Verplichte Jaarlijkse Keuring",
+        "bronvermelding": "",
+        "eenheid_per": "keer",
+        "interventies": [
+            {
+                "id": 1,
+                "interventie": {
+                    "id": 1,
+                    "type": "c",
+                    "eenheid": "\u20ac",
+                    "naam": "OPEX",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 60.0
+            },
+            {
+                "id": 2,
+                "interventie": {
+                    "id": 2,
+                    "type": "w",
+                    "eenheid": "\u20ac",
+                    "naam": "CO2",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 0.0
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "naam": "Verzekering Edison 70D (Allrisk)",
+        "toelichting": "Alleen WA",
+        "bronvermelding": "",
+        "eenheid_per": "maand",
+        "interventies": [
+            {
+                "id": 1,
+                "interventie": {
+                    "id": 1,
+                    "type": "c",
+                    "eenheid": "\u20ac",
+                    "naam": "OPEX",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 50.0
+            },
+            {
+                "id": 2,
+                "interventie": {
+                    "id": 2,
+                    "type": "w",
+                    "eenheid": "\u20ac",
+                    "naam": "CO2",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 0.0
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "naam": "Verbruik Elektriciteit",
+        "toelichting": "Laden Accu",
+        "bronvermelding": "",
+        "eenheid_per": "kWh",
+        "interventies": [
+            {
+                "id": 1,
+                "interventie": {
+                    "id": 1,
+                    "type": "c",
+                    "eenheid": "\u20ac",
+                    "naam": "OPEX",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 0.25
+            },
+            {
+                "id": 2,
+                "interventie": {
+                    "id": 2,
+                    "type": "w",
+                    "eenheid": "\u20ac",
+                    "naam": "CO2",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 0.5
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "naam": "Verzekering Nippon Green (Allrisk)",
+        "toelichting": "Alleen WA",
+        "bronvermelding": "",
+        "eenheid_per": "maand",
+        "interventies": [
+            {
+                "id": 1,
+                "interventie": {
+                    "id": 1,
+                    "type": "c",
+                    "eenheid": "\u20ac",
+                    "naam": "OPEX",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 30.0
+            },
+            {
+                "id": 2,
+                "interventie": {
+                    "id": 2,
+                    "type": "w",
+                    "eenheid": "\u20ac",
+                    "naam": "CO2",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 0.0
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "naam": "Verzekering Nippon Blue (Allrisk)",
+        "toelichting": "Alleen WA",
+        "bronvermelding": "",
+        "eenheid_per": "keer",
+        "interventies": [
+            {
+                "id": 1,
+                "interventie": {
+                    "id": 1,
+                    "type": "c",
+                    "eenheid": "\u20ac",
+                    "naam": "OPEX",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 50.0
+            },
+            {
+                "id": 2,
+                "interventie": {
+                    "id": 2,
+                    "type": "w",
+                    "eenheid": "\u20ac",
+                    "naam": "CO2",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 0.0
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "naam": "Aanschaf Nippon Blue",
+        "toelichting": "Aanschaf",
+        "bronvermelding": "",
+        "eenheid_per": "stuk",
+        "interventies": [
+            {
+                "id": 1,
+                "interventie": {
+                    "id": 1,
+                    "type": "c",
+                    "eenheid": "\u20ac",
+                    "naam": "OPEX",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 45000.0
+            },
+            {
+                "id": 2,
+                "interventie": {
+                    "id": 2,
+                    "type": "w",
+                    "eenheid": "\u20ac",
+                    "naam": "CO2",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 0.0
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "naam": "Aanschaf Edison 100D",
+        "toelichting": "Totale Aanschaf",
+        "bronvermelding": "",
+        "eenheid_per": "stuk",
+        "interventies": [
+            {
+                "id": 1,
+                "interventie": {
+                    "id": 1,
+                    "type": "c",
+                    "eenheid": "\u20ac",
+                    "naam": "OPEX",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 150000.0
+            },
+            {
+                "id": 2,
+                "interventie": {
+                    "id": 2,
+                    "type": "w",
+                    "eenheid": "\u20ac",
+                    "naam": "CO2",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 0.0
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "naam": "Verzekering Edison 100D (Allrisk)",
+        "toelichting": "WA Brand en Diefstal",
+        "bronvermelding": "",
+        "eenheid_per": "month",
+        "interventies": [
+            {
+                "id": 1,
+                "interventie": {
+                    "id": 1,
+                    "type": "c",
+                    "eenheid": "\u20ac",
+                    "naam": "OPEX",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 75.0
+            },
+            {
+                "id": 2,
+                "interventie": {
+                    "id": 2,
+                    "type": "w",
+                    "eenheid": "\u20ac",
+                    "naam": "CO2",
+                    "waarde": 1,
+                    "toelichting": "toelichting"
+                },
+                "waarde": 0.0
+            }
+        ]
+    }
+]

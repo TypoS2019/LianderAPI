@@ -1,0 +1,7 @@
+venv
+.git
+cookiecutter_generator
+k8s
+docs
+logs
+{{cookiecutter.project_name}}
